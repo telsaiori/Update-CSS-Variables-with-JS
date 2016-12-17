@@ -1,5 +1,4 @@
-#
-Update CSS Variables with JS
+#Update CSS Variables with JS
 
 demo:
 https://telsaiori.github.io/Update-CSS-Variables-with-JS/index.html
